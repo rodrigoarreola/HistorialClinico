@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Id_Administrador;datatype:int,name:Ape_pat;datatype:blob,name:Ape_MAt;datatype:blob,name:Nombres;datatype:blob,name:Cargo;datatype:blob,name:Cedula_prof;datatype:string,name:Firma;datatype:string,name:Contraseña;datatype:string,name:nivel de acceso;datatype:int" />
+</info>

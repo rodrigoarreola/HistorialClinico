@@ -1,0 +1,53 @@
+/*
+Design by Metamorphosis Design
+http://www.metamorphozis.com
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+* {margin:0;padding:0}
+a:link {color:#295C6F}
+a:hover {text-decoration:none;color:#f00}
+a:visited {color:#295C6F}
+.fleft {float:left}
+.fright {float:right}
+.fclear {clear:both}
+body {background:#6192A3 url(images/back_all.gif) repeat-x;font:13px Arial,Helvetica,sans-serif;color:#000}
+#content {margin:0 auto;width:792px;text-align:left}
+#main {width:778px;background:url(images/back_top.jpg) repeat-x top;padding-top:10px}
+#back {width:778px;background:#fff;border-left:7px solid #fff;border-right:7px solid #fff}
+#header {height:451px}
+#logo {width:758px;height:300px;text-align:right;padding-right:20px;padding-top:89px;background:url(images/header.jpg) no-repeat}
+#logo a {text-decoration:none;text-transform:lowercase;font-style:italic;font-size:18px;color:#fff}
+#logo H2 a {font-size:12px}
+.inner_copy {border:0;color:#f00;float:left;width:50% !important;margin:-100% 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px}
+#menu {width:778px;border-top:6px solid #fff;height:56px;background:url(images/buttons.gif) no-repeat}
+#menu ul {list-style:none}
+#menu li {display:inline}
+#menu a {float:left;width:120px;height:38px;display:block;text-align:center;text-decoration:none;color:#fff;font-weight:bold;font-size:14px;padding-top:18px;text-transform:uppercase}
+#menu a:hover {width:120px;height:38px;color:#f00;text-decoration:underline;background:url(images/buttons_r.gif) repeat-x}
+#right {width:223px;float:right;margin-right:5px}
+#right H3 {width:198px;height:34px;font-size:14px;font-weight:bold;padding-left:25px;padding-top:15px;text-transform:uppercase;color:#fff;background:url(images/title.gif) repeat-x}
+#right ul {list-style:none;margin-bottom:10px;background:url(images/title_back.gif) no-repeat top}
+#right li {padding:20px;padding-bottom:5px}
+#right a {color:#295C6F}
+#right a:visited {color:#295C6F}
+#right p {font-size:10px}
+.bot {padding:10px}
+#calendar1 {padding:20px 10px 20px 10px}
+#calendar table {width:100%;text-align:center}
+#calendar thead {}
+#calendar tbody td {border:1px solid #f1f1f1}
+#calendar #prev {text-align:left}
+#calendar #next {text-align:right}
+#calendar tfoot a {text-decoration:none;font-weight:bold}
+#calendar #now {background:#696969;border:1px solid #f00;font-weight:bold;color:#fff}
+#left {width:500px;padding:10px}
+#left H4 {margin:0;padding:0;font-size:12px;color:#295C6F}
+#left a {color:#295C6F;text-decoration:none}
+#left p {margin:5px;padding:0;padding-bottom:10px}
+#left h2 {margin:0;padding:0;padding-top:10px;color:#295C6F}
+.date {text-align:right;color:#295C6F;font-size:11px}
+.date a {color:#295C6F}
+#footer {height:54px;clear:both;padding-top:20px;border-top:5px solid #6F9EAF;margin-left:5px;margin-right:5px;background:url(images/footer.gif) repeat-x top}
+#footer div {padding:0 15px}
+#footer p {margin:0;font-size:10px;text-align:center;color:#333}
+#footer a {color:#333}

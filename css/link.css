@@ -1,0 +1,5 @@
+a:hover, #footer a, .link2 {text-decoration:none}
+a, #footer a:hover, .link2:hover {text-decoration:underline}
+#footer a {color:#fff}
+.link1, .link2, .link3 {color:#06A6FC;line-height:16px}
+.link3 {line-height:19px}

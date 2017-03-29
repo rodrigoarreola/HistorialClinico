@@ -1,0 +1,23 @@
+body {background:#DFECF4 url(../img/main/main1.gif) repeat}
+body, p, td, div, form, input, textarea, h1, h2 {margin:0;padding:0;text-align:left;vertical-align:top;color:#2C2C2C;font-size:11px;font-family:Tahoma, Arial, sans-serif}
+a img {border:none}
+h2 {color:#10A2F1;text-transform:uppercase;margin:0 0 6px 0;font-weight:normal}
+.floatl {float:left}
+.floatr {float:right}
+.clearr {clear:right}
+#footer {width:766px;height:32px;margin:5px auto 0 auto;padding:19px 0 0 0;color:#fff;text-align:center;background:#4FC6FF}
+#footer span {padding:0 10px 0 10px}
+#content {width:688px;height:270px;margin:0 auto;background:#fff url(../img/main/main2.gif) repeat-y 393px top}
+.inner_copy, .inner_copy a {border:0;float:right;background:#f00;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-50% 0 0 0;overflow:hidden;padding:0}
+.ca1 {width:377px}
+.ca2 {width:32px;height:8px;background:#fff}
+.ca3 {width:279px}
+.cb2 {height:230px}
+.cc2 {height:19px;background:#fff}
+.ca1 h1 {width:224px;height:23px;padding:8px 0 0 19px;margin:0 0 12px 0px;background:url(../img/main/main3.jpg)}
+.ca3 h1 {width:261px;height:23px;padding:8px 0 0 18px;margin:0 0 12px 0px;background:url(../img/main/main4.jpg)}
+.box1 {padding:0 0 15px 17px}
+.box2 {padding:0 16px 0 0}
+.text1 {margin:0 0 10px 0px;padding:0 0 0 14px;background:url(../img/main/main5.gif) no-repeat left 3px}
+.img1 {border:#8E8E8E solid 1px}
+.img2 {margin:0 22px 0 0}
